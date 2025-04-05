@@ -38,3 +38,5 @@ A GREAT BEGINNER-FRIENDLY PROJECT FOR PRACTICING API INTEGRATION AND DATA VISUAL
 ![Image](https://github.com/user-attachments/assets/a0212f58-956d-4a7d-9a33-bbc1218416c4)
 
 ![Image](https://github.com/user-attachments/assets/fc314887-8989-4198-8025-279b92b210e1)
+
+![Image](https://github.com/user-attachments/assets/fc314887-8989-4198-8025-279b92b210e1)
